@@ -3,3 +3,7 @@ tester3.
 git diff 2
 
 git diff 4
+
+git diff 5
+
+git diff 6
