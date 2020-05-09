@@ -1,6 +1,1 @@
-Chỉnh sửa trên github 
-Chỉnh sửa trên git
-
-Chỉnh ssh key -p 2
-
-CHỈNH SỬA 4
+1 - commit
