@@ -5,3 +5,4 @@ fetch master
 global
 global2
 rebase gitub
+rebase github
