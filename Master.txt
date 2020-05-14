@@ -2,3 +2,5 @@
 a
 b
 fetch master
+global
+global2
