@@ -1,11 +1,2 @@
 
-a
-b
-fetch master
-local
-local2
-local3
-global
-global2
-rebase gitub
-rebase github
+Tag v1.9
