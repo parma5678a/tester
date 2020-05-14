@@ -2,6 +2,7 @@
 a
 b
 fetch master
+local
 global
 global2
 rebase gitub
